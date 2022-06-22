@@ -1,5 +1,5 @@
 {
-  "name": "react",
+  "name": "lesson-01",
   "version": "1.0.0",
   "description": "Curso oferecido gratuitamente pea DIO",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/AndreLNDEsousa/React-js.git"
   },
-  "author": "",
+  "author": "Andre Sousa",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AndreLNDEsousa/React-js/issues"
